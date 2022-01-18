@@ -1,6 +1,5 @@
 import sys
 import os
-
 # if there's no parameters
 # show how to use the tool
 if len(sys.argv) == 1:
@@ -16,7 +15,6 @@ def check(filename):
         print("file not found") # file not exists
         sys.exit()
     else:
-        print(os.popen("ls").readlines()[:])
         pass # the file exists
 
 

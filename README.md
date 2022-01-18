@@ -20,4 +20,4 @@ This tool works for others operating systems but i'm creating for ios / iphone u
 If you want to move the program to bin directory execute this command:
 mv make.py /private/var/mobile/Containers/Shared/AppGroup/1DAE09F2-6240-4B36-8B6D-E3890D78B3E1/Documents
 
-amd then try run: make 
+and then try run: make 

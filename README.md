@@ -6,10 +6,12 @@ so you can use this tool for compiling your C language soruce codes
 
 in the tool current folder
 usage:
+
 python3 make.py file
 
 if is the tool in bin directory
 usage:
+
 make file
 
 This tool works for others operating systems but i'm creating for ios / iphone users on LibTerm app 

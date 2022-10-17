@@ -9,7 +9,7 @@ usage:
 
 
 
-python3 make.py file
+    python3 make.py file
 
 
 
